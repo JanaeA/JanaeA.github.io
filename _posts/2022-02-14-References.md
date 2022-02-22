@@ -1,8 +1,10 @@
 ## The Growth of XR References
 EXTENDED REALITY (XR) MARKET - GROWTH, TRENDS, COVID-19 IMPACT, AND FORECASTS (2022 - 2027)
+
 https://www.mordorintelligence.com/industry-reports/extended-reality-xr-market
 
 Augmented Reality and Mixed Reality Market 2021 Segmentation, Statistics, Top Manufacturers, Regional Analysis and Forecast to 2030
+
 https://www.marketwatch.com/press-release/mixed-reality-market-size-2021-share-growth-by-top-company-business-opportunity-region-application-driver-trends-forecasts-by-2024-2021-09-20
 
 ### Mini History of One of the Most Popular VR Games: Beat Saber
@@ -20,7 +22,9 @@ Beat Saber is arguably the most popular and played VR game as it has sold over 4
 I personally believe that I have a strong connection to this game as I have always loved rhythmic games. I was obsessed with Dance Dance Revolution as a kid, and another game called Rhythm Heaven, a Nintendo DS game. 
 
 Sources: 
+
 https://beatsaber.com/
+
 https://screenrant.com/beat-saber-4-million-copies-vr/
 
 
